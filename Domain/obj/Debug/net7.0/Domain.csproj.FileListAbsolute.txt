@@ -1,0 +1,12 @@
+C:\sources\Test\MyAPI\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\sources\Test\MyAPI\Domain\bin\Debug\net7.0\Domain.dll
+C:\sources\Test\MyAPI\Domain\bin\Debug\net7.0\Domain.pdb
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.dll
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\Domain.pdb
+C:\sources\Test\MyAPI\Domain\obj\Debug\net7.0\ref\Domain.dll

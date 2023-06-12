@@ -1,0 +1,17 @@
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\sources\Test\MyAPI\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\sources\Test\MyAPI\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
